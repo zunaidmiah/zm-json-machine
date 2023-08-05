@@ -1,8 +1,6 @@
-# dt-json-machine
-<img align="right" src="img/github.png" />
-
-(README in sync with the code)
-
+# zm-json-machine
+ Inspired from halaxa/json-machine
+ 
 Very easy to use and memory efficient drop-in replacement for inefficient iteration of big JSON files or streams
 for PHP >=7.0. See [TL;DR](#tl-dr). No dependencies in production except optional `ext-json`.
 
