@@ -1,5 +1,5 @@
 {
-    "name": "zm-json-machine",
+    "name": "zm/json-machine",
     "description": "Efficient, easy-to-use and fast JSON pull parser. You can easily install this package",
     "license": "Apache-2.0",
     "authors": [
